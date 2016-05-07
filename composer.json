@@ -1,0 +1,13 @@
+{
+    "name": "iproger/yii2-extendedhtml",
+    "description": "Additional opportunities for html",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mykhailo Shatilov",
+            "email": "proger.mixa@gmail.com"
+        }
+    ],
+    "require": {}
+}
