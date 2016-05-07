@@ -1,2 +1,3 @@
-# yii2-extendedhtml
-Additional opportunities for html
+# Extended html for Yii 2
+
+Additional opportunities for html.
