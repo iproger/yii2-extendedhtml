@@ -1,6 +1,7 @@
 {
     "name": "iproger/yii2-extendedhtml",
     "description": "Additional opportunities for html",
+    "keywords": ["yii2", "extension", "extension installer"],
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
