@@ -4,7 +4,7 @@ namespace iproger\extendedhtml;
 
 use yii\helpers\Html;
 
-class Html extends Html
+class ExtendedHtml extends Html
 {
 
     public static function dataList($name, $items = [], $options = [])
