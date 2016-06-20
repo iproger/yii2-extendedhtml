@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "iproger\\extendedhtml\\": ""
+            "iproger\\yii2\\extendedhtml\\": "src\\"
         }
     }
 

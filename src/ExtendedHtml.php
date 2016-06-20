@@ -1,6 +1,6 @@
 <?php
 
-namespace iproger\extendedhtml;
+namespace iproger\yii2\extendedhtml;
 
 use yii\helpers\Html;
 
